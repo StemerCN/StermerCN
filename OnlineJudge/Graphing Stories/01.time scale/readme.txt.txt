@@ -1,0 +1,2 @@
+TIME
+A clock with a seconds hand is shown as it advances for 15 seconds. The challenge is to ¡®graph the story¡¯. This video emphasises the importance of scales. In this introductory video the answer is then displayed showing a linear relationship.Time video

@@ -1,0 +1,2 @@
+Height of waist off ground 1
+A person is shown climbing to the top of a playground slide. They pause at the top and then slide down the slide.  The end of the slide has an upwards turn for safety. The task is to graph the height of the person¡¯s waist off the ground against time.
